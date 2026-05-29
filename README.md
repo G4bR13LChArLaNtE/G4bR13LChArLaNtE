@@ -114,6 +114,3 @@ Sistema para cálculo de ganhos, despesas e métricas operacionais.
 
 💼 LinkedIn:
 https://www.linkedin.com/in/gabriel-charlante-36a406265/
-
-🌐 GitHub:
-https://github.com/G4bR13LChArLaNtE
