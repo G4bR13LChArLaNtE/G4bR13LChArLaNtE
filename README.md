@@ -22,7 +22,7 @@ Atualmente atuo com:
 - Apache Airflow
 - Docker e OpenShift
 - Cloud AWS/GCP
-- Sistemas Django e FastAPI
+- Frameworks Django, Flask e FastAPI
 
 Tenho experiência com sustentação de sistemas legados,
 automação de rotinas, processamento assíncrono com Celery
